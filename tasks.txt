@@ -1,0 +1,9 @@
+Print unique values as a list from a given list using for loop. list1 = [1,5,10,15,20,25,30,35,40,10,20,30,40,50,60]
+
+
+Print unique lastnames as a list from a given list of players. list2 = ["Rohit Sharma", "Virat Kohli", "Shreyas Iyer", "Shubman Gill", "Ishant Sharma", "Ravindra Jadeja", "Venkatesh Iyer"]
+
+
+Print the sum of alphabetical orders of "INDIA". (output: I = 9, N = 14, D = 4, I = 9, A = 1 --> 9+14+4+9+1 = 37)
+
+
